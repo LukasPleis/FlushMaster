@@ -1,0 +1,7 @@
+{
+  "name": "FlushMaster",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
